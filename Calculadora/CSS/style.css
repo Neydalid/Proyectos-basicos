@@ -59,7 +59,7 @@ body {
   color: #050505;
 }
 .calculator.dark {
-  background-color: #181818;
+  background-color: #1b1b1b;
 }
 .calculator.dark #display {
   color: #fff;
@@ -102,10 +102,10 @@ body {
   z-index: -1;
 }
 
-.theme-toggler .active {
+.theme-toggler.active {
   color: #333;
 }
-.theme-toggler .active::before {
+.theme-toggler.active::before {
   background-color: #fff;
 }
 
